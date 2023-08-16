@@ -1,5 +1,5 @@
 
-<p align="center" valign="center">  | <a href="https://www.linkedin.com/in/alejandro-velez-12aaa0115/">LinkedIn</a> | <a rel="DevTO" href="https://dev.to/avelez">Avelez</a> </p>
+<p align="center" valign="center">  | <a href="https://www.linkedin.com/in/alejandro-velez-12aaa0115/">LinkedIn</a> | <a rel="DevTO" href="https://dev.to/avelez">Avelez</a> </p> |
 
 # Stuff™
 :speaking_head: :cloud: :computer:
