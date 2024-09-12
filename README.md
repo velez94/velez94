@@ -3,7 +3,7 @@
 
 # Stuff™
 :speaking_head: :cloud: :computer:
-👋 Hi, I’m @velez94 Cloud Solutions Architect. Skilled in AWS, DevSecOps, Infraestructure as code (IaC), Migrations, microservices, Networking, scripting languages as Python, powershell, go, and Public Speaking. 
+👋 Hi, I’m @velez94 Cloud Solutions Architect. Skilled in AWS, DevSecOps, Platform Engineering, Infraestructure as code (IaC), Migrations, microservices, Networking, scripting languages as Python, powershell, go, and Public Speaking. 
 
 - 💞️ I’m looking to collaborate on open source project.
  
